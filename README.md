@@ -12,6 +12,3 @@ Assumes 2 VMS have been created
 - master
 - node1
 
-
-
-```
