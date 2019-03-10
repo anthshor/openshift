@@ -1,6 +1,6 @@
 # Purpose
 
-To provide repeatable instructions to install and configurare openshift on Centos 7 
+To provide repeatable instructions to install and configure openshift on Centos 7 
 
 # Description
 2 node openshift cluster
